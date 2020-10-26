@@ -1,2 +1,2 @@
-# HackerRank_challenges
+# HackerRank
 HackerRank challenges solutions
